@@ -4,7 +4,7 @@
 
 # hey, i'm Aryan Lokare 
 
-building things that solve real problems.
+I enjoy experimenting with new ideas, solving problems, and turning rough concepts into something real.
 
 [github](https://github.com/Aryn-Lokare) ·
 [linkedin](https://www.linkedin.com/in/aryan-lokare/) 
@@ -12,15 +12,10 @@ building things that solve real problems.
 
 ---
 
-> currently building AI-powered applications and exploring
-> multi-agent systems, full-stack development and intelligent workflows.
+> full-stack-applications | ai-agents | systems-thinking 
 
 I'm a Information Technology student who enjoys building
-products, experimenting with new technologies and turning
-ideas into working software.
-
-i'm particularly interested in AI agents, backend
-architecture, and building scalable applications.
+products, turning ideas into working software.
 
 i believe the best way to learn is by building.
 i enjoy taking ideas from concept to implementation,
@@ -30,12 +25,6 @@ my engineering skills.
 right now, i'm focused on strengthening my development
 skills, thinking in system , business logic , exploring agentic AI systems and building projects
 that solve real-world problems.
-
-**currently exploring**
-- multi-agent AI systems
-- full-stack application development
-- AI-powered developer tools
-- backend architecture and system design
 
 </td>
 
