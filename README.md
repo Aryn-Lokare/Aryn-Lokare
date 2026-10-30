@@ -31,7 +31,7 @@ that solve real-world problems.
 <td width="38%" valign="top">
 
 <img
-  src="pfp.jpeg"
+  src="pfp_3x4.jpeg"
   width="100%"
   height="600"
   style="object-fit: cover; object-position: center;"
