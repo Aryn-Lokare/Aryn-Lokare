@@ -41,7 +41,13 @@ that solve real-world problems.
 
 <td width="38%" valign="top">
 
-<img src="C:\Users\Aryan\OneDrive\Desktop\mypics\pfp.jpeg" width="100%" alt="Aryan Lokare" />
+<img
+  src="pfp.jpeg"
+  width="100%"
+  height="600"
+  style="object-fit: cover; object-position: center;"
+  alt="Aryan Lokare"
+/>
 
 </td>
 </tr>
