@@ -22,10 +22,6 @@ i enjoy taking ideas from concept to implementation,
 solving problems along the way and continuously improving
 my engineering skills.
 
-right now, i'm focused on strengthening my development
-skills, thinking in system , business logic , exploring agentic AI systems and building projects
-that solve real-world problems.
-
 </td>
 
 <td width="38%" valign="top">
